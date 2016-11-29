@@ -1,3 +1,9 @@
+2016-11-28  Kingpin  <martin@martin-M17x>
+
+	* lib/Lingua/Alphabet/Phonetic.pm: version up
+
+	* Makefile.PL: fixed to work with Perls that do not have "." in their @INC
+
 2008-03-05    <Daddy@C-3PO>
 
 	* Kwalitee upgrades

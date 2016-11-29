@@ -1,6 +1,4 @@
 
-# $Id: Phonetic.pm,v 1.10 2010-12-02 23:36:29 Martin Exp $
-
 =head1 NAME
 
 Lingua::Alphabet::Phonetic - map ABC's to phonetic alphabets
@@ -32,7 +30,7 @@ use strict;
 use warnings;
 
 our
-$VERSION = sprintf("%d.%02d", q$Revision: 1.10 $ =~ /(\d+)\.(\d+)/o);
+$VERSION = 1.11;
 
 =item new
 
