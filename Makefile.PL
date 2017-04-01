@@ -3,7 +3,7 @@ use lib '.';
 use inc::Module::Install;
 
 all_from('lib/Lingua/Alphabet/Phonetic.pm');
-version(1.11);
+version(1.12);
 
 install_script('phonetize');
 clean_files('phonetize');
