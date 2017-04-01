@@ -30,7 +30,7 @@ use strict;
 use warnings;
 
 our
-$VERSION = 1.11;
+$VERSION = 1.12;
 
 =item new
 
