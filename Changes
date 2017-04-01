@@ -1,3 +1,7 @@
+2017-04-01  Kingpin  <martin@martin-M17x>
+
+	* MANIFEST: removed "MYMETA" files
+
 2016-11-28  Kingpin  <martin@martin-M17x>
 
 	* lib/Lingua/Alphabet/Phonetic.pm: version up

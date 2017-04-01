@@ -13,6 +13,7 @@ diff$
 ^MANIFEST\.
 ^Makefile$
 ^Makefile.old$
+MYMETA
 \.Old
 \.orig$
 \bPages\b
